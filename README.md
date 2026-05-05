@@ -20,25 +20,16 @@ You can browse my [repositories](https://github.com/looplock?tab=repositories) t
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default">
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=dark#gh-dark-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default#gh-light-mode-only)
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=react-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github&hide_border=true&area=true">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github&hide_border=true&area=true">
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=react-dark&hide_border=true&area=true#gh-dark-mode-only)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github&hide_border=true&area=true#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/looplock/looplock/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/looplock/looplock/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/looplock/looplock/output/github-snake.svg">
-</picture>
+![GitHub contribution snake](https://raw.githubusercontent.com/looplock/looplock/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution snake](https://raw.githubusercontent.com/looplock/looplock/output/github-snake.svg#gh-light-mode-only)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:55DDE0,55:9E8CFF,100:EF7777&height=150&section=footer)
 
