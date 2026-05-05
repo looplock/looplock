@@ -20,11 +20,19 @@ You can browse my [repositories](https://github.com/looplock?tab=repositories) t
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=looplock&hide_border=true&theme=default">
+</picture>
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github-light&hide_border=true&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=react-dark&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github&hide_border=true&area=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=looplock&theme=github&hide_border=true&area=true">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/looplock/looplock/output/github-snake-dark.svg">
