@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=EF7777&center=true&vCenter=true&width=720&lines=Build+small+things%2C+learn+from+them.;Turn+curiosity+into+running+code.;Keep+improving%2C+one+commit+at+a+time.)
 
-## Hi, I'm LoopLock. I build, learn, and keep shipping small ideas.
+Hi, I'm LoopLock. I build, learn, and keep shipping small ideas.
 
 你好，我是 LoopLock。这里记录我的代码练习、项目尝试和一些持续学习的痕迹。
 
